@@ -8,7 +8,7 @@ To use it, require the library and call the functions on the
 exported object:
 
 ```js
-const logger = require('@jhunt/logger');
+const logger = require('@niftylogic/logger');
 
 logger.show('all')
       .as('an-example');

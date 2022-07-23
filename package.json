@@ -1,10 +1,9 @@
 {
-  "name": "logger",
+  "name": "@niftylogic/logger",
   "version": "1.0.0",
   "description": "A simple, environment-driven logger, suitable for microservice architectures inside of containers.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jhunt/js-logger.git"
