@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A simple, environment-driven logger, suitable for microservice architectures inside of containers.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhunt/js-logger.git"
+  },
+  "keywords": [
+    "logging",
+    "microservices",
+    "docker"
+  ],
+  "author": "James Hunt <james@niftylogic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhunt/js-logger/issues"
+  },
+  "homepage": "https://github.com/jhunt/js-logger#readme"
+}
